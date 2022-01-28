@@ -1,4 +1,4 @@
-[![build status](	https://img.shields.io/travis/gor181/react-notification-system-redux.svg?branch=master&style=flat-square)](https://travis-ci.org/gor181/react-notification-system-redux)
+[![build status](	https://img.shields.io/travis/cristian-sima/react-notification-system-redux.svg?branch=master&style=flat-square)](https://travis-ci.org/cristian-sima/react-notification-system-redux)
 [![version](https://img.shields.io/npm/v/react-notification-system-redux.svg?style=flat-square)](https://www.npmjs.com/package/react-notification-system-redux)
 [![downloads](https://img.shields.io/npm/dm/react-notification-system-redux.svg?style=flat-square)](https://npm-stat.com/charts.html?package=react-notification-system-redux&from=2016-01-01)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](http://opensource.org/licenses/MIT)
@@ -13,7 +13,7 @@ Use versions below v2.0.0 for react versions lower than 16.
 
 ## Demo & Examples
 
-Live demo: [gor181.github.io/react-notification-system-redux](http://gor181.github.io/react-notification-system-redux/)
+Live demo: [cristian-sima.github.io/react-notification-system-redux](http://cristian-sima.github.io/react-notification-system-redux/)
 
 To build the examples locally, run:
 
