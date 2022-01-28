@@ -14,7 +14,7 @@ import Component, {
 	removeAll,
 	reducer
 } from '../../src/notifications';
-import NotifySystem from 'react-notification-system';
+import NotifySystem from 'react-notification-system-17';
 
 const createDOM = () =>
 	jsdom('<!doctype html><html><body><div></div></body></html>');

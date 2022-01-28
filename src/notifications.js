@@ -5,7 +5,7 @@ import { ReactReduxContext } from 'react-redux';
 import * as actions from './actions';
 import reducer from './reducer';
 
-import NotifySystem from 'react-notification-system';
+import NotifySystem from 'react-notification-system-17';
 
 class Notifications extends React.Component {
 

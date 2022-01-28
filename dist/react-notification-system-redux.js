@@ -3309,7 +3309,7 @@ var _reducer = require('./reducer');
 
 var _reducer2 = _interopRequireDefault(_reducer);
 
-var _reactNotificationSystem = require('react-notification-system');
+var _reactNotificationSystem = require('react-notification-system-17');
 
 var _reactNotificationSystem2 = _interopRequireDefault(_reactNotificationSystem);
 
@@ -3362,7 +3362,7 @@ var Notifications = function (_React$Component) {
         var systemNotifications = this.system().state.notifications || [];
 
         if (notifications.length > 0) {
-          // Get all active notifications from react-notification-system
+          // Get all active notifications from react-notification-system-17
           /// and remove all where uid is not found in the reducer
           systemNotifications.forEach(function (notification) {
             if (notificationIds.indexOf(notification.uid) < 0) {
@@ -3458,7 +3458,7 @@ NotificationsWithContext.reducer = _reducer2['default'];
 module.exports = NotificationsWithContext;
 
 }).call(this,typeof global !== "undefined" ? global : typeof self !== "undefined" ? self : typeof window !== "undefined" ? window : {})
-},{"./actions":38,"./reducer":41,"prop-types":15,"react-notification-system":undefined,"react-redux":30}],41:[function(require,module,exports){
+},{"./actions":38,"./reducer":41,"prop-types":15,"react-notification-system-17":undefined,"react-redux":30}],41:[function(require,module,exports){
 'use strict';
 
 Object.defineProperty(exports, "__esModule", {
