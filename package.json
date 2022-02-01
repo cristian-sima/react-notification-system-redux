@@ -1,6 +1,6 @@
 { 
   "name": "react-notification-system-redux2",
-  "version": "3.0.2",
+  "version": "3.0.4",
   "description": "react-notification-system-redux2",
   "main": "lib/notifications.js",
   "author": "Goran Udosic",
@@ -39,7 +39,7 @@
     "react": "^16.7.0",
     "react-component-gulp-tasks": "git+https://github.com/cristian-sima/react-component-gulp-tasks.git",
     "react-dom": "^16.7.0",
-    "react-notification-system-17": "1.0.0",
+    "react-notification-system-17": "1.0.1",
     "react-redux": "^6.0.0",
     "redux": "^4.0.1",
     "redux-mock-store": "^1.5.3",
@@ -47,7 +47,7 @@
   },
   "dependencies": {
     "prop-types": "^15.6.0",
-    "react-notification-system-17": "^1.0.0"
+    "react-notification-system-17": "^1.0.1"
   },
   "browserify-shim": {
     "react": "global:React"
